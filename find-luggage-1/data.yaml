@@ -1,0 +1,12 @@
+names:
+- paper bag
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: find-luggage
+  url: https://universe.roboflow.com/findluggage/find-luggage/dataset/1
+  version: 1
+  workspace: findluggage
+train: /Users/Omar/Desktop/robocup/bag detection/find-luggage-1/train/images
+val: /Users/Omar/Desktop/robocup/bag detection/find-luggage-1/valid/images
+test: /Users/Omar/Desktop/robocup/bag detection/find-luggage-1/test/images
